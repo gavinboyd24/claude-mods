@@ -9,19 +9,15 @@ Three Claude Code mods by gavinboyd24.
 ## Install (in Terminal, one line per mod)
 
 ```bash
-claude plugin marketplace add gavinboyd24/claude-mods
+claude plugin install model-router --marketplace gavinboyd24/claude-mods
 ```
 
 ```bash
-claude plugin install model-router@claude-mods
+claude plugin install dashboard --marketplace gavinboyd24/claude-mods
 ```
 
 ```bash
-claude plugin install dashboard@claude-mods
+claude plugin install buddy --marketplace gavinboyd24/claude-mods
 ```
 
-```bash
-claude plugin install buddy@claude-mods
-```
-
-Private repo: the install works only if your Mac is signed in to GitHub.
+This repo is private, so the install only works on a Mac that is signed in to GitHub.
