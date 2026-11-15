@@ -1,0 +1,9 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "gavinboyd24" },
+  "plugins": [
+    { "name": "model-router", "source": "./plugins/model-router", "description": "Picks Haiku, Sonnet or Opus for each message" },
+    { "name": "dashboard", "source": "./plugins/dashboard", "description": "To-do list, active mods and usable skills" },
+    { "name": "buddy", "source": "./plugins/buddy", "description": "A little orange buddy above your prompt" }
+  ]
+}

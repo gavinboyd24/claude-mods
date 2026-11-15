@@ -1,0 +1,1 @@
+{ "name": "dashboard", "version": "0.1.0", "description": "A side panel with your to-do list, active mods and skills you can use", "types": "./types/index.d.ts" }
